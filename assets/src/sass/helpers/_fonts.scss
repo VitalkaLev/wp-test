@@ -1,0 +1,37 @@
+$font: "'Inter Tight', sans-serif;";
+
+/* Bold */
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('../fonts/inter-tight/InterTight-Bold.ttf') format('ttf');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap; 
+}
+
+/*b Medium */
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('../fonts/inter-tight/InterTight-Medium.ttf') format('ttf');
+    font-weight: 500; 
+    font-style: normal;
+    font-display: swap; 
+}
+
+/* Regular */
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('../fonts/inter-tight/InterTight-Regular.ttf') format('ttf');
+    font-weight: 400; 
+    font-style: normal;
+    font-display: swap; 
+}
+
+/* Light */
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('../fonts/inter-tight/InterTight-Light.ttf') format('ttf');
+    font-weight: 300; 
+    font-style: normal;
+    font-display: swap; 
+}
